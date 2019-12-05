@@ -1,0 +1,99 @@
+/*Header*/
+.header{
+   padding-left: none;
+}
+.headerinner{
+    display: flex;
+    justify-content:space-between;
+    padding: 46px 20px;
+    align-items: center;
+}
+/*Container*/
+.container{
+	width: 100%;
+    position: absolute;
+}
+.container_2{
+	width: 100%;
+    position: absolute;
+    padding-left: 10px; 
+}
+/*nav*/
+.nav{
+    display: flex;
+    font-size: 13px;
+    font-weight: 700px;
+    text-transform: uppercase;
+}
+
+.nav__link{
+    margin-left: 40px;
+    color: #fff;
+    text-decoration: none;
+    opacity: .75px;
+    font-family: 'Roboto';
+    font-size:15px;
+    padding-left: 10px;
+}
+
+.nav__link:first-child{
+    margin-left: 0;
+}
+
+.nav__link:hover{
+    opacity: 1;
+}
+
+/*Intro*/
+.intro{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 750px;
+    padding-top: 157px;
+    background: url("../img/Anveshan.png") center 
+    no-repeat / cover;
+}
+.introinner{
+    width: 100%;
+    max-width: 970px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.introtitle {
+    margin: 0 0 47px;
+    font-family: 'Roboto';
+    font-weight: 700px;
+    font-size: 73px;
+    line-height: 1.1;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.introtitle_2 {
+    margin: 0 0 47px;
+    font-family: 'Roboto';
+    font-weight: 700px;
+    font-size: 73px;
+    line-height: 1.1;
+    color: #ed322d;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.introsubtitle{
+    margin-bottom: 82px;
+    font-size: 20px;
+    color: #8b818d;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Roboto';
+
+}
+.scroll_introtitle{
+	padding-left: 713px;
+	padding-top: 100px;
+}
+
