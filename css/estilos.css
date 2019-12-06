@@ -129,5 +129,13 @@
     padding-top: 50px;
 }
 /********erick********/
-
+/* isai parte 6  */
+#social{margin: 0; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing: border-box;}
+#social ul{list-style: none;padding-left:69%;padding-top:7%;}
+#social ul li{display: inline-block;}
+#social ul li a{;color:#9b9b9b;background:#ffffff;text-decoration:none;}
+#social ul li .icon-google{padding-right:10px;}
+#social ul li .icon-facebook{padding-right:10px;}
+#social ul li .icon-tumblr{}
+/*isai parte 6 */
 
