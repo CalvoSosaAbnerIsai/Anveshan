@@ -140,10 +140,10 @@
 /* isai parte 6  */
 #social{margin:0;}
 #social ul{list-style: none;padding-left:54%;padding-top:4%;}
-#social ul li{display: inline-block;padding-right:35px;}
+#social ul li{display: inline-block;}
 #social ul li a{;color:#9b9b9b;background:#ffffff;text-decoration:none;}
-#social ul li .icon-tumblr{}
-#social ul li .icon-facebook{}
+#social ul li .icon-tumblr{padding-right:35px;}
+#social ul li .icon-facebook{padding-right:35px;}
 #social ul li .icon-google{}
 #letra{padding-top:2%;padding-bottom:4%;}
 #letra p{color:#b3b3b3;padding-top:0%;border:0;}
