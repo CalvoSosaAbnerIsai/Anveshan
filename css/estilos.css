@@ -31,12 +31,9 @@ ul{
 li{
 	line-height: 3.5;
 }
-ul li a{
-	text-decoration: none; color: #626262; font-size: 15px;  padding:0px 10px;border-right: 2px solid #626262;
+.nav ul li a{
+	text-decoration: none; color: #ffffff; font-size: 13px;  padding:0px 10px; border: 1px;
 	font-family: 'Roboto', sans-serif;
-}
-.nav ul li:last-child a{
-	padding-right: none;
 }
 .nav{
     display: flex;
