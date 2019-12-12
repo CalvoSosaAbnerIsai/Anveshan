@@ -27,7 +27,6 @@ li{line-height: 3.5;}
 .introsubtitle{margin-bottom: 82px;font-size: 20px;color: #8b818d;line-height: 1.5;font-weight: 400;font-family: 'Roboto';
     text-align: center;text-decoration: none;}
 .scroll_introtitle{padding-left: 713px;padding-top: 100px;}
-.loki{padding-left:15%;}
 /***services sección 4***/
 .services{display: flex;flex-direction: center;justify-content: center;width: 100%;height: 950px;padding-top: 100px;
     background: url("../img/seccion4.png") center no-repeat / cover;
@@ -74,7 +73,7 @@ li{line-height: 3.5;}
 #img2pp{
     width:200px
     height:200px;
-    margin-left: 10%;
+    padding-left:15%;
 }
 #p1{
     font-size:40px;
