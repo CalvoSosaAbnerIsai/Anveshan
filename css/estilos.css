@@ -115,7 +115,7 @@ li{line-height: 3.5;}
 }
 .parrafo1{
     float: left;
-    margin-left: 10em;
+    padding-left:17%;
 }
 .parrafo2{
     float: left;
@@ -128,6 +128,7 @@ li{line-height: 3.5;}
 .parrafo4{
     float: left;
     margin-left: 5em;
+    padding-bottom:7%;
 }
 #line1{
     height:4px;
