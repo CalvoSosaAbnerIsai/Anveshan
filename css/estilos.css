@@ -56,6 +56,10 @@ li{line-height: 3.5;}
 #letra p p{color:#db2e2e;}
 /*isai parte 6 */
 /*********************************************jose ramon************************************************/
+.fondopp{
+    background:#f8f8f8;
+    padding-bottom:50px; 
+}
 .imgpp{
     float: left;
     width: 50%; height: 50%;
@@ -65,6 +69,11 @@ li{line-height: 3.5;}
     width:50px
     height:50px;
     margin-top: 10px;
+}
+#img2pp{
+    width:200px
+    height:200px;
+    margin-left: 10%;
 }
 #p1{
     font-size:40px;
@@ -92,6 +101,34 @@ li{line-height: 3.5;}
     font-size:13px;
     color: #5d5d5d;
 }
+#p7{
+    font-size:22px;
+    color: #5d5d5d;
+}
+#p8{
+    font-size:50px;
+    font-weight:bold;
+}
+#p9{
+    font-size:20px;
+    color: #5d5d5d; 
+}
+.parrafo1{
+    float: left;
+    margin-left: 10em;
+}
+.parrafo2{
+    float: left;
+    margin-left: 5em;
+}
+.parrafo3{
+    float: left;
+    margin-left: 5em;
+}
+.parrafo4{
+    float: left;
+    margin-left: 5em;
+}
 #line1{
     height:4px;
     width:88px;
@@ -106,7 +143,6 @@ li{line-height: 3.5;}
     display:block;
     margin:0 auto;
 }
-.letra3{padding-top:100px;}
 #boton3{
     Font-size:1px ;
     color: #000000;
