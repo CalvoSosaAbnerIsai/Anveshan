@@ -79,6 +79,7 @@ li{
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 0px;
+   	text-decoration: none;
 }
 .introtitle_2 {
     margin: 0 0 47px;
@@ -89,6 +90,7 @@ li{
     color: #ed322d;
     text-transform: uppercase;
     text-align: center;
+    text-decoration: none;
 }
 
 .introsubtitle{
@@ -99,6 +101,7 @@ li{
     font-weight: 400;
     font-family: 'Roboto';
     text-align: center;
+    text-decoration: none;
 }
 .scroll_introtitle{
 	padding-left: 713px;
