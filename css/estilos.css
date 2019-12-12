@@ -5,8 +5,8 @@
 			padding-right: 100px;display: flex;}
 /*Container*/
 .container{width: 100%;position: absolute;max-width: 1;margin: auto;display: flex;text-decoration:none;}
-.container_2{width: 100%;position: absolute;padding-left: 10px;}
-.hr{margin:none;size:2;width:2%;color:#ffffff;}
+.container_2{width: 100%;position: absolute;padding-left: 10px;padding-top: none;}
+
 
 /*nav*/
 ul{list-style:none; padding-left:0;padding-right: 0px;}
@@ -17,7 +17,7 @@ li{line-height: 3.5;}
 .nav__link{margin-left: 0px;color: #fff;text-decoration: none;opacity: .75px;font-family: 'Roboto';font-size:15px;
     		padding-left: 10px;}
 /*Intro*/
-.intro{display: flex;flex-direction: column;justify-content: center;height: 800px;padding-top: 0px;
+.intro{flex-direction: column;justify-content: center;height: 800px;padding-top:4.5%;
     background: url("../img/Anveshan.png") center no-repeat / cover;}
 .introinner{width: 100%;max-width: 970px;margin: 0 auto;text-align: center;padding-top: 0px;}
 .introtitle {margin: 0 0 47px;font-family: 'Roboto';font-weight: 700px;font-size: 73px;line-height: 1.1;color: #fff;
