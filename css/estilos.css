@@ -41,6 +41,10 @@ li{line-height: 3.5;}
 .absoluta img{width:145px;height:145px;border-radius:50%;position:absolute;left:45.5%;top:3290px;}
 .fondo p{top:-15%;position:absolute;left:36.5%;}
 .letra2{position:absolute;left:35%;top:3430px;margin:0;padding-bottom:0;}
+.absoluta img{width:145px;height:145px;border-radius:50%;position:absolute;left:45.5%;top:2920px;}
+.fondo p{top:-15%;position:absolute;left:36.5%;}
+.letra2{position:absolute;left:35%;top:px;margin:0;padding-bottom:0;}
+
 /*isai parte 5*/
 /* isai parte 6*/
 #social{margin:0;}
@@ -68,6 +72,11 @@ li{line-height: 3.5;}
     float: left;
     width: 50%; 
     height: 106.5%;
+    padding-bottom: 0%;
+}
+.imgpp{
+    float: left;
+    width: 50%; height: 50%;
     margin-right: 3em;
 }
 .linea{padding-right:45.5%;}
@@ -81,6 +90,15 @@ li{line-height: 3.5;}
 }
 #img2pp{
     padding-left: 14%;
+    width:50px
+    height:50px;
+    margin-top: 10px;
+    padding-bottom: 50px;   
+}
+#img2pp{
+    width:200px
+    height:200px;
+    margin-left: 0%;
 }
 #p1{
     font-size:40px;
@@ -102,6 +120,8 @@ li{line-height: 3.5;}
 .p5{
     float: right;
     margin-right: 14%;
+    margin-right: 3%;
+    margin-top: 35px;
 }
 #p6{
     font-size:13px;
@@ -123,19 +143,24 @@ li{line-height: 3.5;}
     float: left;
     padding-left:18%;
     padding-bottom:7%
+    margin-left: 10em;
+    text-align:left;
 
 }
 .parrafo2{
     float: left;
     margin-left: 5em;
+    text-align:left;
 }
 .parrafo3{
     float: left;
     margin-left: 5em;
+    text-align:left;
 }
 .parrafo4{
     float: left;
     margin-left: 5em;
+    text-align:left;
 }
 #line1{
     height:4px;
