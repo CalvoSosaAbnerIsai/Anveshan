@@ -58,7 +58,7 @@ li{line-height: 3.5;}
 /*********************************************jose ramon************************************************/
 .fondopp{
     background:#f8f8f8;
-    padding-bottom: 1.8%;
+    padding-bottom: 0%;
 }
 .imgpp{
     float: left;
@@ -66,14 +66,15 @@ li{line-height: 3.5;}
     margin-right: 3em;
 }
 .img1pp{
-    width:50px;
+    width:50px
     height:50px;
     margin-top: 10px;
+    padding-bottom: 50px;   
 }
 #img2pp{
-    width:200px;
+    width:200px
     height:200px;
-    padding-left: 14%;
+    margin-left: 0%;
 }
 #p1{
     font-size:40px;
@@ -115,20 +116,23 @@ li{line-height: 3.5;}
 }
 .parrafo1{
     float: left;
-    padding-left:18%;
-
+    margin-left: 10em;
+    text-align:left;
 }
 .parrafo2{
     float: left;
     margin-left: 5em;
+    text-align:left;
 }
 .parrafo3{
     float: left;
     margin-left: 5em;
+    text-align:left;
 }
 .parrafo4{
     float: left;
     margin-left: 5em;
+    text-align:left;
 }
 #line1{
     height:4px;
