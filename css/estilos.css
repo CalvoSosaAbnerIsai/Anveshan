@@ -38,9 +38,9 @@ li{line-height: 3.5;}
 .terms{position: absolute;}
 /********erick********/
 /*isai parte 5*/
-.absoluta img{width:145px;height:145px;border-radius:50%;position:absolute;left:45.5%;top:3365px;}
+.absoluta img{width:145px;height:145px;border-radius:50%;position:absolute;left:45.5%;top:2920px;}
 .fondo p{top:-15%;position:absolute;left:36.5%;}
-.letra2{position:absolute;left:35%;top:3504px;margin:0;padding-bottom:0;}
+.letra2{position:absolute;left:35%;top:px;margin:0;padding-bottom:0;}
 /*isai parte 5*/
 /* isai parte 6*/
 #social{margin:0;}
@@ -66,7 +66,7 @@ li{line-height: 3.5;}
     margin-right: 3em;
 }
 .img1pp{
-    width:50px
+    width:50px;
     height:50px;
     margin-top: 10px;
 }
