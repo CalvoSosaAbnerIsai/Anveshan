@@ -71,9 +71,9 @@ li{line-height: 3.5;}
     margin-top: 10px;
 }
 #img2pp{
-    width:200px
+    width:200px;
     height:200px;
-    margin-left: 5%;
+    padding-left: 14%;
 }
 #p1{
     font-size:40px;
@@ -115,7 +115,8 @@ li{line-height: 3.5;}
 }
 .parrafo1{
     float: left;
-    margin-left: 5em;
+    padding-left:18%;
+
 }
 .parrafo2{
     float: left;
